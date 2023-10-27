@@ -1,0 +1,39 @@
+#nav a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#button1{
+    color: #F85E9F;     
+}
+.group-1 .description h1 span{
+    color: #F85E9F;
+}
+#buttonStarted{
+    background-color: #5D50C6;
+}
+#service {
+    margin-top: 10%;
+  }
+  #service h51 {
+    color: #F85E9F;
+  }
+  #tulis h5 {
+    color: orangered;
+  }
+  #card p {
+    color: #F85E9F;
+  }
+  #card p3 {
+    color: orangered;
+  }
+  #serviceid h5 {
+    color: #F85E9F;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .pic-3 {
+    margin-left: 380px;
+    margin-right: 380px;
+    justify-content: center;
+  }
+  
